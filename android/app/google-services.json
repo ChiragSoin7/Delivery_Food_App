@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130512445831",
+    "project_id": "mregg-e8fc2",
+    "storage_bucket": "mregg-e8fc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130512445831:android:3f5949e43830a728453322",
+        "android_client_info": {
+          "package_name": "com.example.mregg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130512445831-9knqartiolrjc7kr6ppn94io2trrjkvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgA2YnFhsTOJilVxyeU38ocWJTvGBZfmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130512445831-9knqartiolrjc7kr6ppn94io2trrjkvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
